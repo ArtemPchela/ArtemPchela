@@ -16,3 +16,6 @@
 </div>
 
 ---
+<div id="about" align="center">
+  :mens: About Me:
+</div>
