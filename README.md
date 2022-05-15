@@ -1,3 +1,12 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47tcf11oev0ipk3pcfz38r502njcytndip46ekht3x&rid=giphy.gif&ct=s" width="200"/>
 </div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/artem-pchelenkov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCoj31C7m4TnH4scqWD-1Yew">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
