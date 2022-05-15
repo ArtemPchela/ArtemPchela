@@ -1,9 +1,9 @@
 <div>
-  <div>
+  <div align="right">
     <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
   </div>
-  <div>
-  :wave: Hi! :wave:
+  <div align="center">
+  :wave: Hi visitor! :wave:
   </div>
 </div>
 
