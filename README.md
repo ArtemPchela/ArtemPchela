@@ -1,5 +1,10 @@
 <div>
-  <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
+  </div>
+  <div>
+  :wave: Hi! :wave:
+  </div>
 </div>
 
 <div id="header" align="center">
