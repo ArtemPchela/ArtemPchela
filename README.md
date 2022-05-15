@@ -2,8 +2,8 @@
   <div align="right">
     <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
   </div>
-  <div align="center">
-  :wave: Hi visitor! :wave:
+  <div align="center" color="yellow" font-weight="bold" font-size="18px">
+    :wave: Hi visitor! :wave:
   </div>
 </div>
 
