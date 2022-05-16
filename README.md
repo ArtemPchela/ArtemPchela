@@ -1,16 +1,13 @@
-<div>
   <div align="right">
     <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
   </div>
-  <div align="center">
-    Hello visitor 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </div>
-</div>
+
+### Hello, I'm Tim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47tcf11oev0ipk3pcfz38r502njcytndip46ekht3x&rid=giphy.gif&ct=s" width="200"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/artem-pchelenkov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,27 +18,23 @@
 </div>
 
 ---
-<div id="about" align="center">
-  :man_technologist: About Me :
-</div>
-<div>
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Stockholm, Sweden.
+
+### :man_technologist: About Me :
+
+I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills. I'm based in Stockholm, Sweden.
 
 - :desktop_computer: As a Front-end Developer, I contribute to both the frontend and backend of web applications.
 
-- :brain: In my free time, I solve problems on CodeWars and read tech articles.
+- :brain: Currently improving my React skills, specially NextJS.
 
 - Reach me out: 
 [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or pchelenkovartem@gmail.com
-</div>
-
-<div id="tools" align="center">
-  :hammer_and_wrench: Languages and Tools :
-</div>
 
 ---
 
-<div>
+### :hammer_and_wrench: Languages and Tools :
+
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -57,11 +50,9 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-<div id="stats" align="center">
-  :bar_chart: My Stats :
-</div>
+### :bar_chart: My Stats :
 
-<div id="graph" align="center">
+<div id="graph">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtemPchela&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     
