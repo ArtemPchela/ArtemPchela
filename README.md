@@ -3,7 +3,8 @@
     <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
   </div>
   <div align="center">
-    Hello visitor.
+    Hello visitor 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
 </div>
 
@@ -22,5 +23,5 @@
 
 ---
 <div id="about" align="center">
-  :mens: About Me:
+  About Me:
 </div>
