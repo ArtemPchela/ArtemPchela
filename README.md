@@ -34,7 +34,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :brain: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :incoming_envelope:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/)
 
-- :e-mail: ![Gmail Badge] 
+- :e-mail: [![Gmail Badge](https://img.shields.io/badge/-Tim-white?style=?style=for-the-badge&logo=Gmail&logoColor=red)](pchelenkovartem@gmail.com) 
 </div>
