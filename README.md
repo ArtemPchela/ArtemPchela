@@ -1,9 +1,9 @@
 <div>
   <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt="views"/>
   </div>
-  <div align="center" color="yellow" font-weight="bold" font-size="18px">
-    :wave: Hi visitor! :wave:
+  <div align="center">
+    <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" alt="greeting"/>
   </div>
 </div>
 
