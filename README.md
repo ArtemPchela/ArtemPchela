@@ -24,7 +24,9 @@
 ---
 <div id="about" align="center">
   ### :man_technologist: About Me :
-  I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Stockholm, Sweden.
+</div>
+<div>
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Stockholm, Sweden.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
