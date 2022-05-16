@@ -67,12 +67,12 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtemPchela&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela)](https://github.com/ArtemPchela/github-readme-stats)
 
   
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemPchela&show_icons=true&theme=radical)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&layout=compact)](https://github.com/ArtemPchela/github-readme-stats)
 
 </div>
 
