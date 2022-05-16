@@ -32,9 +32,10 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :brain: In my free time, I solve problems on CodeWars and read tech articles.
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/)
+- Reach me out: 
+[![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/)
 
-- :e-mail: pchelenkovartem@gmail.com 
+pchelenkovartem@gmail.com 
 </div>
 
 <div id="about" align="center">
