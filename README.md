@@ -1,9 +1,9 @@
 <div>
   <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt="views"/>
+    <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
   </div>
   <div align="center">
-    <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" alt="greeting"/>
+    Hello visitor.
   </div>
 </div>
 
