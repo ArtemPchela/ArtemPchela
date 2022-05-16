@@ -37,7 +37,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 <div id="tools" align="center">
-  ### :hammer_and_wrench: Languages and Tools :
+  :hammer_and_wrench: Languages and Tools :
 </div>
 
 ---
@@ -59,10 +59,10 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 <div id="stats" align="center">
-  ### :bar_chart: My Stats :
+  :bar_chart: My Stats :
 </div>
 
 <div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtemPchela&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
