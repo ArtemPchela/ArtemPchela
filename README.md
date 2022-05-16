@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
   </div>
   <div align="center">
-    **Hello visitor** 
+    Hello visitor 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
 </div>
@@ -11,7 +11,6 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47tcf11oev0ipk3pcfz38r502njcytndip46ekht3x&rid=giphy.gif&ct=s" width="200"/>
 </div>
-**Hello visitor**
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/artem-pchelenkov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -66,7 +65,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtemPchela&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=monokai&layout=compact)](https://github.com/ArtemPchela/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=merko&layout=compact)](https://github.com/ArtemPchela/github-readme-stats)
 
 </div>
 
