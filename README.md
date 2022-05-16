@@ -71,5 +71,8 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
   
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemPchela&show_icons=true&theme=radical)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
