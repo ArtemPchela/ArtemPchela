@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
   </div>
   <div align="center">
-    Hello visitor 
+    ** Hello visitor ** 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
 </div>
@@ -33,7 +33,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :brain: In my free time, I solve problems on CodeWars and read tech articles.
 
 - Reach me out: 
-[![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or pchelenkovartem@gmail.com 
+[![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or 	[title](pchelenkovartem@gmail.com)
 </div>
 
 <div id="tools" align="center">
