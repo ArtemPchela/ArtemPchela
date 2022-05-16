@@ -23,7 +23,7 @@
 
 ---
 <div id="about" align="center">
-  ### :man_technologist: About Me :
+  :man_technologist: About Me :
 </div>
 <div>
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Stockholm, Sweden.
@@ -32,8 +32,9 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :brain: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=black)] (https://github.com/ArtemPchela) or ![Gmail Badge]
-- :mailbox: ![Gmail Badge] 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+- :e-mail: ![Gmail Badge] 
 </div>
