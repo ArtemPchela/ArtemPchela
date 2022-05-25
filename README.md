@@ -25,7 +25,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :desktop_computer: As a Front-end Developer, I contribute to both the frontend and backend of web applications.
 
-- :brain: Currently improving my React skills, specially NextJS.
+- :brain: I'm currently honing my React skills, particularly NextJS.
 
 - Reach me out: 
 [![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or pchelenkovartem@gmail.com
