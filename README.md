@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
   </div>
 
-### Hello, I'm Tim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+#### Hello, and Welkome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47tcf11oev0ipk3pcfz38r502njcytndip46ekht3x&rid=giphy.gif&ct=s" width="200"/>
@@ -19,7 +19,7 @@
 
 ---
 
-### :man_technologist: About Me :
+#### :man_technologist: About Me :
 
 I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills. I'm based in Stockholm, Sweden.
 
@@ -32,7 +32,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+ :hammer_and_wrench: Languages and Tools :
 
 <div aligne="center">
 <!--   https://img.shields.io icons-->
@@ -60,17 +60,14 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-&nbsp;
-&nbsp;
-## :bar_chart: Github stats
-
-<div id="graph">
-
-<img align="left" alt="ArtemPchela's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArtemPchela&theme=merko&show_icons=true&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    
+<details>
+  <summary> <strong>:bar_chart: Github stats</strong></summary>
+  <br/>
+<a href="https://git.io/streak-stats"><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ArtemPchela&theme=highcontrast&hide_border=true" width="400" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=merko&layout=compact&hide_border=true)](https://github.com/ArtemPchela/github-readme-stats&hide_border=true)
-  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&show_icons=true&theme=merko&hide_border=true)](https://github.com/ArtemPchela)
- -->
-</div>
+</details>
+
+---
+
+#### :clipboard: Certificates:
 
