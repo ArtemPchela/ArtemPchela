@@ -63,8 +63,12 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <details>
   <summary> <strong>:bar_chart: Github stats</strong></summary>
   <br/>
-<a href="https://git.io/streak-stats"><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ArtemPchela&theme=highcontrast&hide_border=true" width="400" /></a>
+<a href="https://git.io/streak-stats">
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ArtemPchela&theme=highcontrast&hide_border=true" width="400" />
+</a>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=merko&layout=compact&hide_border=true)](https://github.com/ArtemPchela/github-readme-stats&hide_border=true)
+  
 </details>
 
 ---
