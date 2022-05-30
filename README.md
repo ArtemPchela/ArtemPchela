@@ -28,27 +28,34 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :brain: I'm currently honing my React skills, particularly NextJS.
 
 - Reach me out: 
-[![Linkedin Badge](https://img.shields.io/badge/-Tim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or pchelenkovartem@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-Artsiom-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or pchelenkovartem@gmail.com
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
+<!--   https://img.shields.io icons-->
   <img src="https://img.shields.io/badge/react-3776AB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sass-3776AB?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-3776AB?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/next.js-3776AB?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-3776AB?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazonwebservices-3776AB?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-3776AB?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-3776AB?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/webstorm-3776AB?style=for-the-badge&logo=webstorm&logoColor=white"/>
+  
+  
+  
+  ## Styles:
+  <img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sass-3776AB?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/materialui-3776AB?style=for-the-badge&logo=materialui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/materialui-3776AB?style=for-the-badge&logo=materialui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/materialUI-3776AB?style=for-the-badge&logo=materialui&logoColor=white"/>
+  
+  ## IDE:
+  <img src="https://img.shields.io/badge/webstorm-3776AB?style=for-the-badge&logo=webstorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode-3776AB?style=for-the-badge&logo=vscode&logoColor=white"/>
 </div>
 
 ---
