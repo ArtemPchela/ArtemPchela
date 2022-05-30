@@ -37,29 +37,32 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <div aligne="center">
 <!--   https://img.shields.io icons-->
   
-  <img src="https://img.shields.io/badge/JavaScript-F1C40F?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/next.js-3776AB?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-3776AB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-3776AB?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jsx-3776AB?style=for-the-badge&logo=jsx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-3776AB?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amazonwebservices-3776AB?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-3776AB?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-3776AB?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab-3776AB?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sass-3776AB?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/materialUI-3776AB?style=for-the-badge&logo=materialui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/webstorm-3776AB?style=for-the-badge&logo=webstorm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vscode-3776AB?style=for-the-badge&logo=vscode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F1C40F?style=for-the-badge&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-273746?style=for-the-badge&logo=next.js&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/react-21618C?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-27AE60?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/jsx-1ABC9C?style=for-the-badge&logo=jsx&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-2ECC71?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/amazonwebservices-8E44AD?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/git-CB4335?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-A93226?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab-9B59B6?style=for-the-badge&logo=gitlab&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/css3-DC7633?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass-5F6A6A?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/materialUI-16A085?style=for-the-badge&logo=materialui&logoColor=white" />
+  <img src="https://img.shields.io/badge/webstorm-797D7F?style=for-the-badge&logo=webstorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/vscode-9A7D0A?style=for-the-badge&logo=vscode&logoColor=white" />
 </div>
 
 ---
 
 &nbsp;
 &nbsp;
-## 📊 Github stats
+## :bar_chart: Github stats
 
 <div id="graph">
 
