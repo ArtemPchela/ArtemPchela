@@ -23,9 +23,15 @@
 
 I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills. I'm based in Stockholm, Sweden.
 
-- :desktop_computer: As a Front-end Developer, I contribute to both the frontend and backend of web applications.
+- :male_detective: I have personal skills including learning agility, problem-solving, hard-working, critical thinking, attention to detail, quick learning, supportive, goal achieving, friendly, time management, stress-resistant, teamwork and analytical thinking.
 
-- :brain: I'm currently honing my React skills, particularly NextJS.
+- I have :computer: skills that include JavaScript, React.js, Next.js, ReactNative, Axios/REST API, Postman,Git/GitHub, node.js.
+
+- Full :battery: energy.
+
+- I like to read :books:'s
+
+- Travel around the :world_map:
 
 - Reach me out: 
 [![Linkedin Badge](https://img.shields.io/badge/Artsiom-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or pchelenkovartem@gmail.com
