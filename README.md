@@ -47,6 +47,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://img.shields.io/badge/next.js-273746?style=for-the-badge&logo=next.js&logoColor=white" />
   
   <img src="https://img.shields.io/badge/react-21618C?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-toolkit-21618C?style=for-the-badge&logo=redux-toolkit&logoColor=white" />
   <img src="https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=DeepPink" />
   <img src="https://img.shields.io/badge/html5-27AE60?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/jsx-1ABC9C?style=for-the-badge&logo=jsx&logoColor=white" />
