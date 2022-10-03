@@ -29,7 +29,8 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - Full :battery: energy.
 
-- I like to read :books:'s
+- I like to read :books:'s, the latest one was:
+:clipboard:
 
 - Travel around the :world_map:
 
