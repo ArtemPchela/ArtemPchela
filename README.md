@@ -30,8 +30,11 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - Full :battery: energy.
 
 - I like to read :books:'s, the latest one was:
-:clipboard:
-
+<details>
+  Robert Kiyosaki - Rich Dad Poor Dad
+  Dale Carnegie - How to Stop Worrying and Start Living
+  Richard Branson - Let's Not Screw It, Let's Just Do It
+</details>
 - Travel around the :world_map:
 
 - Reach me out: 
