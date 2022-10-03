@@ -29,7 +29,8 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - Full :battery: energy.
 
-- I like to read :books:'s <details>
+- I like to read <details>
+  <summary> <strong>:books:'s books</strong></summary>
   - Robert Kiyosaki - Rich Dad Poor Dad <br/>
   - Dale Carnegie - How to Stop Worrying and Start Living <br/>
   - Richard Branson - Let's Not Screw It, Let's Just Do It <br/>
