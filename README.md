@@ -29,13 +29,33 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - Full :battery: energy.
 
-- I like to read <details>
-  <summary> <strong>:books:'s books</strong></summary>
+- I like to read 
+<details>
+  <summary> 
+    <strong>
+      :books:'s books
+    </strong>
+  </summary>
   - Robert Kiyosaki - Rich Dad Poor Dad <br/>
   - Dale Carnegie - How to Stop Worrying and Start Living <br/>
   - Richard Branson - Let's Not Screw It, Let's Just Do It <br/>
 </details>
-- Travel around the :world_map:
+
+- Travel around the 
+<details>
+  <summary>
+    <strong>
+      :world_map: 
+    </strong>
+  </summary>
+  - Poland
+  - Israel
+  - Turkey
+  - Egypt
+  - France
+  - Sweden
+  - Ukraine
+</details>
 
 - Reach me out: 
 [![Linkedin Badge](https://img.shields.io/badge/Artsiom-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or pchelenkovartem@gmail.com
