@@ -96,11 +96,12 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <summary> <strong>:bar_chart: Github stats</strong></summary>
   <br/>
   <div align="center">
-<!--   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ArtemPchela&theme=highcontrast&hide_border=true" width="400" /> -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArtemPchela&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemPchela&theme=tokyonight&show_icons=true" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=ArtemPchela&theme=github" />
-    </div>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArtemPchela&theme=tokyonight&show_icons=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemPchela&theme=tokyonight&show_icons=true" />
+  </div>
+  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=babayaga110&&show_icons=true&theme=tokyonight"/>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=merko&layout=compact&hide_border=true)](https://github.com/ArtemPchela/github-readme-stats&hide_border=true)
   
 </details>
