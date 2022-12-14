@@ -23,9 +23,9 @@
 
 I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills. I'm based in Stockholm, Sweden.
 
-- :male_detective: I have personal skills including learning agility, problem-solving, hard-working, critical thinking, attention to detail, quick learning, supportive, goal achieving, friendly, time management, stress-resistant, teamwork and analytical thinking.
+- :male_detective: I have personal skills including learning agility, problem-solving, hard-working, critical thinking, attention to detail, like learn new, supportive, goal achieving, friendly, time management, stress-resistant, teamwork and analytical thinking.
 
-- I have :computer: skills that include JavaScript, React.js, Next.js, ReactNative, Axios/REST API, Postman,Git/GitHub, node.js.
+- I have :computer: skills that include JavaScript, React.js, Next.js, ReactNative, Axios/REST API, Postman, Git/GitHub, node.js.
 
 - Full :battery: energy.
 
