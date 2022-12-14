@@ -100,7 +100,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemPchela&theme=tokyonight&show_icons=true" />
   </div>
   
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=babayaga110&&show_icons=true&theme=tokyonight"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&&show_icons=true&theme=tokyonight"/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/ArtemPchela/github-readme-stats&hide_border=true)
   
