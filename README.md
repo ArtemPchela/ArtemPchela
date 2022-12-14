@@ -102,7 +102,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=babayaga110&&show_icons=true&theme=tokyonight"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=merko&layout=compact&hide_border=true)](https://github.com/ArtemPchela/github-readme-stats&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/ArtemPchela/github-readme-stats&hide_border=true)
   
 </details>
 
