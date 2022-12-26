@@ -48,6 +48,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
       :world_map: 
     </strong>
   </summary>
+  ```bash
   - Poland
   - Israel
   - Turkey
@@ -55,6 +56,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   - France
   - Sweden
   - Ukraine
+  ```
 </details>
 
 - Reach me out: 
