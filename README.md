@@ -48,15 +48,15 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
       :world_map: 
     </strong>
   </summary>
-  ```bash
-  - Poland
-  - Israel
-  - Turkey
-  - Egypt
-  - France
-  - Sweden
-  - Ukraine
-  ```
+  <ul>  
+    <li>Poland</li>
+    <li>Israel</li>
+    <li>Turkey</li>
+    <li>Egypt</li>
+    <li>France</li>
+    <li>Sweden</li>
+    <li>Ukraine</li>
+  </ul>
 </details>
 
 - Reach me out: 
