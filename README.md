@@ -62,7 +62,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
- :hammer_and_wrench: Languages and Tools :
+ :hammer_and_wrench: Languages and Tools:
 
 <div aligne="center">
 <!--   https://img.shields.io icons-->
