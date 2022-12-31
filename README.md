@@ -112,5 +112,27 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
+<details>
+  <summary>
+    <strong>
+      📦npm 
+    </strong>
+  </summary>
+  <ul>  
+    <li>
+      <a href='https://npmjs.com/package/dark-mode-react'>
+        dark-mode-react
+      </a>
+    </li>
+    <li>
+      <a href='https://npmjs.com/package/dark-mode-ts'>
+        dark-mode-ts
+      </a>
+    </li>
+  </ul>
+</details>
+
+---
+
 #### :clipboard: Certificates:
 
