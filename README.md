@@ -1,8 +1,10 @@
-  <div align="center">
+  <div align="right">
     <img src="https://komarev.com/ghpvc/?username=ArtemPchela&style=flat-square&color=blue" alt=""/>
   </div>
-
-# Hello, and Welkome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ <div align="center">
+    <h1>Hello, and welcome!</h1>
+  </div> 
+   
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47tcf11oev0ipk3pcfz38r502njcytndip46ekht3x&rid=giphy.gif&ct=s" width="200"/>
@@ -23,11 +25,11 @@
 
 I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills. I'm based in Stockholm, Sweden.
 
-- :male_detective: I have personal skills including learning agility, problem-solving, hard-working, critical thinking, attention to detail, like learn new, supportive, goal achieving, friendly, time management, stress-resistant, teamwork and analytical thinking.
+- :male_detective: I have personal skills including learning agility, problem-solving, hard work, critical thinking, attention to detail, like learning new, supportive, goal achieving, friendly, time management, stress-resistant, teamwork and analytical thinking.
 
-- I have :computer: skills that include JavaScript, React.js, Next.js, ReactNative, Axios/REST API, Postman, Git/GitHub, node.js.
+- I have :computer: skills that include JavaScript, React.js, Next.js, ReactNative, Axios/REST API, Postman, Git/GitHub, and node.js.
 
-- Full :battery: energy.
+- Full of :battery:.
 
 - I like to read 
 <details>
