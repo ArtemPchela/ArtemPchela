@@ -132,7 +132,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
       </a>
     </li>
     <li>
-     <a href='https://www.npmjs.com/package/scroll-to-top-react>
+     <a href='https://www.npmjs.com/package/scroll-to-top-react'>
        scroll-to-top-react
     </a>
     </li>
