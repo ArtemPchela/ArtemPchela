@@ -61,8 +61,9 @@ Stockholm, Sweden.
    - Spain <br/>
 </details>
 
-- Reach me out: 
-[![Linkedin Badge](https://img.shields.io/badge/Artsiom-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or pchelenkovartem@gmail.com
+Contact: 
+- [![Linkedin Badge](https://img.shields.io/badge/Artsiom-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) 
+- pchelenkovartem@gmail.com
 
 ---
 
@@ -136,10 +137,17 @@ Stockholm, Sweden.
        scroll-to-top-react
     </a>
     </li>
+    <li>
+     <a href='https://www.npmjs.com/package/accordion-react-ts'>
+       accordion-react-ts
+    </a>
+    </li>
+    <li>
+     <a [href='https://www.npmjs.com/package/id-generator-ts'>
+       id-generator-ts
+    </a>
+    </li>
   </ul>
 </details>
 
----
-
-#### :clipboard: Certificates:
 
