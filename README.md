@@ -21,25 +21,31 @@
 
 ---
 
-#### :man_technologist: About Me:
-Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills.
+### About Me:
+- I'm Artem, a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a love for creating user-friendly and visually appealing web applications.
+  
+#### Specialize in:
+- HTML, CSS, and JavaScript to build responsive and interactive web interfaces.
+- Modern frontend frameworks like React and Vue.js for dynamic web applications.
+- UI/UX design principles to craft delightful user experiences.
+- Performance optimization to ensure fast and smooth web experiences.
+  
+### :world_map: Location:
+- Stockholm, Sweden.
 
-#### :world_map: Location:
-Stockholm, Sweden.
-
-#### Soft skills:
+### Soft skills:
 - learning agility / hard work / attention to detail / supportive 
 - problem-solving / critical thinking / like learning new / goal achieving
 - friendly / time management / stress-resistant / teamwork
 - analytical thinking
   
-##### Hard skills:
+### Hard skills:
 - JavaScript / TypeScript / React.js /
 - Next.js / ReactNative / Axios /
 - REST API / Postman / Git / GitHub /
 - node.js.
 
-##### Books:  
+### Books:  
 <details>
   - Robert Kiyosaki - Rich Dad Poor Dad <br/>
   - Dale Carnegie - How to Stop Worrying and Start Living <br/>
@@ -48,7 +54,7 @@ Stockholm, Sweden.
   - Lindsay C. Gibson - Emotionally Immature Parents
 </details>
 
-##### Travel
+### Travel
 <details>
    - Poland <br/>
    - Israel <br/>
