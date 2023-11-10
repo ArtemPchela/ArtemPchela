@@ -21,8 +21,8 @@
 
 ---
 
-### About Me:
-- I'm Artem, a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a love for creating user-friendly and visually appealing web applications.
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me:
+ I'm Artem, a passionate Frontend Developer with a love for creating user-friendly and visually appealing web applications.
   
 #### Specialize in:
 - HTML, CSS, and JavaScript to build responsive and interactive web interfaces.
@@ -31,21 +31,21 @@
 - Performance optimization to ensure fast and smooth web experiences.
   
 ### :world_map: Location:
-- Stockholm, Sweden.
+ Stockholm, Sweden.
 
-### Soft skills:
+### ⭐ Soft skills:
 - learning agility / hard work / attention to detail / supportive 
 - problem-solving / critical thinking / like learning new / goal achieving
 - friendly / time management / stress-resistant / teamwork
 - analytical thinking
   
-### Hard skills:
+### 💻 Hard skills:
 - JavaScript / TypeScript / React.js /
 - Next.js / ReactNative / Axios /
 - REST API / Postman / Git / GitHub /
 - node.js.
 
-### Books:  
+### 📚 Books:  
 <details>
   - Robert Kiyosaki - Rich Dad Poor Dad <br/>
   - Dale Carnegie - How to Stop Worrying and Start Living <br/>
@@ -54,7 +54,7 @@
   - Lindsay C. Gibson - Emotionally Immature Parents
 </details>
 
-### Travel
+### 🌐 Travel
 <details>
    - Poland <br/>
    - Israel <br/>
@@ -67,20 +67,18 @@
    - Spain <br/>
 </details>
 
-Contact: 
-- [![Linkedin Badge](https://img.shields.io/badge/Artsiom-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) 
-- pchelenkovartem@gmail.com
+### 📧 Contact: </br>
+ [![Linkedin Badge](https://img.shields.io/badge/Artsiom-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) </br>
+ pchelenkovartem@gmail.com
 
 ---
 
- :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
 <div aligne="center">
 <!--   https://img.shields.io icons-->
-  
   <img src="https://img.shields.io/badge/JavaScript-F1C40F?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-273746?style=for-the-badge&logo=next.js&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/react-21618C?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/redux_toolkit-21618C?style=for-the-badge&logo=redux_toolkit&logoColor=white" />
   <img src="https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=DeepPink" />
@@ -88,11 +86,9 @@ Contact:
   <img src="https://img.shields.io/badge/jsx-1ABC9C?style=for-the-badge&logo=jsx&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-2ECC71?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/amazonwebservices-8E44AD?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/git-CB4335?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-A93226?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/gitlab-9B59B6?style=for-the-badge&logo=gitlab&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/css3-DC7633?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/sass-5F6A6A?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -109,14 +105,10 @@ Contact:
   <div align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArtemPchela&theme=tokyonight&hide_border=true" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemPchela&theme=tokyonight&hide_border=true" />
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/ArtemPchela/github-readme-stats&hide_border=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/ArtemPchela/github-readme-stats&hide_border=true)
   </div>
-  
 <!--         <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&&show_icons=true&theme=tokyonight"/> -->
-  
-
 </details>
 
 ---
