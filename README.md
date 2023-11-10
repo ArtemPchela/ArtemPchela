@@ -21,8 +21,8 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me:
- I'm Artem, a passionate Frontend Developer with a love for creating user-friendly and visually appealing web applications.
+### About Me:
+ I'm Artem, a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a love for creating user-friendly and visually appealing web applications.
   
 #### Specialize in:
 - HTML, CSS, and JavaScript to build responsive and interactive web interfaces.
