@@ -21,44 +21,44 @@
 
 ---
 
-#### :man_technologist: About Me :
+#### :man_technologist: About Me:
+Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills.
 
-I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills. I'm based in Stockholm, Sweden.
+#### :world_map: Location:
+Stockholm, Sweden.
 
-- :male_detective: I have personal skills including learning agility, problem-solving, hard work, critical thinking, attention to detail, like learning new, supportive, goal achieving, friendly, time management, stress-resistant, teamwork and analytical thinking.
+#### Soft skills:
+- learning agility / hard work / attention to detail / supportive 
+- problem-solving / critical thinking / like learning new / goal achieving
+- friendly / time management / stress-resistant / teamwork
+- analytical thinking
+  
+##### Hard skills:
+- JavaScript / TypeScript / React.js /
+- Next.js / ReactNative / Axios /
+- REST API / Postman / Git / GitHub /
+- node.js.
 
-- I have :computer: skills that include JavaScript, React.js, Next.js, ReactNative, Axios/REST API, Postman, Git/GitHub, and node.js.
-
-- Full of :battery:.
-
-- I like to read 
+##### Books:  
 <details>
-  <summary> 
-    <strong>
-      :books:'s books
-    </strong>
-  </summary>
   - Robert Kiyosaki - Rich Dad Poor Dad <br/>
   - Dale Carnegie - How to Stop Worrying and Start Living <br/>
   - Richard Branson - Let's Not Screw It, Let's Just Do It <br/>
+  - Lindsay C. Gibson - Recovering from Emotionally Immature Parents <br/>
+  - Lindsay C. Gibson - Emotionally Immature Parents
 </details>
 
-- Travel around the 
+##### Travel
 <details>
-  <summary>
-    <strong>
-      :world_map: 
-    </strong>
-  </summary>
-  <ul>  
-    <li>Poland</li>
-    <li>Israel</li>
-    <li>Turkey</li>
-    <li>Egypt</li>
-    <li>France</li>
-    <li>Sweden</li>
-    <li>Ukraine</li>
-  </ul>
+   - Poland <br/>
+   - Israel <br/>
+   - Turkey <br/>
+   - Egypt <br/>
+   - France <br/>
+   - Sweden <br/>
+   - Ukraine <br/>
+   - Lithuania <br/>
+   - Spain <br/>
 </details>
 
 - Reach me out: 
