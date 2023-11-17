@@ -108,8 +108,11 @@
   <div align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArtemPchela&theme=tokyonight&hide_border=true" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemPchela&theme=tokyonight&hide_border=true" />
+    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/ArtemPchela/github-readme-stats&hide_border=true)
+  
   </div>
+  
 <!--         <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&&show_icons=true&theme=tokyonight"/> -->
 </details>
