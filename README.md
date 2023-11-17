@@ -25,8 +25,8 @@
  I'm Artem, a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a love for creating user-friendly and visually appealing web applications.
   
 #### Specialize in:
-- HTML, CSS, and JavaScript to build responsive and interactive web interfaces.
-- Modern frontend frameworks like React and Vue.js for dynamic web applications.
+- HTML, CSS, and JavaScript, TypeScript to build responsive and interactive web interfaces.
+- Modern frontend frameworks like React and Next for dynamic web applications.
 - UI/UX design principles to craft delightful user experiences.
 - Performance optimization to ensure fast and smooth web experiences.
   
@@ -40,9 +40,9 @@
 - analytical thinking
   
 ### 💻 Hard skills:
-- JavaScript / TypeScript / React.js /
-- Next.js / ReactNative / Axios /
-- REST API / Postman / Git / GitHub /
+- JavaScript / TypeScript / React.js
+- Next.js / ReactNative / Axios
+- REST API / Postman / Git / GitHub
 - node.js.
 
 ### 📚 Books:  
@@ -50,8 +50,11 @@
   - Robert Kiyosaki - Rich Dad Poor Dad <br/>
   - Dale Carnegie - How to Stop Worrying and Start Living <br/>
   - Richard Branson - Let's Not Screw It, Let's Just Do It <br/>
+  - Benji Travis & Sean Cannell - YouTube Secrets <br/>
+  - Vladimir Obruchev - Zemlya Sannikova <br/>
+  - What Every BODY is Saying - Joe Navarro <br/>
   - Lindsay C. Gibson - Recovering from Emotionally Immature Parents <br/>
-  - Lindsay C. Gibson - Emotionally Immature Parents
+  - Lindsay C. Gibson - Emotionally Immature Parents <br/>
 </details>
 
 ### 🌐 Travel
