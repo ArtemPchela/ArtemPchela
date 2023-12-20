@@ -147,8 +147,13 @@
     </a>
     </li>
     <li>
-     <a [href='https://www.npmjs.com/package/id-generator-ts'>
+     <a href='https://www.npmjs.com/package/id-generator-ts'>
        id-generator-ts
+    </a>
+    </li>
+    <li>
+     <a href='https://www.npmjs.com/package/wpm-calculator-react'>
+       wpm-calculator-react
     </a>
     </li>
   </ul>
