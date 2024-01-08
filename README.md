@@ -123,7 +123,7 @@
 
 [dark-mode-react](https://npmjs.com/package/dark-mode-react)   
 
-[![npm](https://badgen.net/npm/v/dark-mode-react)]
+![npm](https://badgen.net/npm/v/dark-mode-react)
 
 [dark-mode-ts](https://npmjs.com/package/dark-mode-ts)
 
