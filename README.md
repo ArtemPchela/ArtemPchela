@@ -128,7 +128,7 @@
 [![Total npm package downloads](https://badgen.net/npm/dt/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
 [![GitHub stars](https://badgen.net/github/stars/username/dark-mode-react)](https://github.com/username/dark-mode-react)
 
-[![npm](https://img.shields.io/npm/dt/dark-mode-ts.svg)](https://www.npmjs.com/package/dark-mode-ts)
+[dark-mode-react](https://npmjs.com/package/dark-mode-ts) 
 
 [![npm package version](https://badgen.net/npm/v/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
 [![npm package downloads](https://badgen.net/npm/dm/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
@@ -137,9 +137,17 @@
 
 [dark-mode-ts](https://npmjs.com/package/scroll-to-top-react)
 
-[![npm](https://img.shields.io/npm/dt/scroll-to-top-react.svg)](https://www.npmjs.com/package/scroll-to-top-react)
+[![npm package version](https://badgen.net/npm/v/scroll-to-top-react)](https://www.npmjs.com/package/scroll-to-top-react)
+[![npm package downloads](https://badgen.net/npm/dm/scroll-to-top-react)](https://www.npmjs.com/package/scroll-to-top-react)
+[![Total npm package downloads](https://badgen.net/npm/dt/scroll-to-top-react)](https://www.npmjs.com/package/scroll-to-top-react)
+[![GitHub stars](https://badgen.net/github/stars/username/scroll-to-top-react)](https://github.com/username/scroll-to-top-react)
 
 [accordion-react-ts](https://npmjs.com/package/accordion-react-ts)
+
+[![npm package version](https://badgen.net/npm/v/accordion-react-ts)](https://www.npmjs.com/package/accordion-react-ts)
+[![npm package downloads](https://badgen.net/npm/dm/accordion-react-ts)](https://www.npmjs.com/package/accordion-react-ts)
+[![Total npm package downloads](https://badgen.net/npm/dt/accordion-react-ts)](https://www.npmjs.com/package/accordion-react-ts)
+[![GitHub stars](https://badgen.net/github/stars/username/accordion-react-ts)](https://github.com/username/accordion-react-ts)
 
 [![npm](https://img.shields.io/npm/dt/accordion-react-ts.svg)](https://www.npmjs.com/package/accordion-react-ts)
 
