@@ -126,8 +126,12 @@
 [![npm package version](https://badgen.net/npm/v/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
 [![npm package downloads](https://badgen.net/npm/dm/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
 [![Total npm package downloads](https://badgen.net/npm/dt/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
+[![GitHub stars](https://badgen.net/github/stars/username/dark-mode-react)](https://github.com/username/dark-mode-react)
 
-[dark-mode-ts](https://npmjs.com/package/dark-mode-ts)
+[![npm package version](https://badgen.net/npm/v/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
+[![npm package downloads](https://badgen.net/npm/dm/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
+[![Total npm package downloads](https://badgen.net/npm/dt/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
+[![GitHub stars](https://badgen.net/github/stars/username/dark-mode-ts)](https://github.com/username/dark-mode-ts)
 
 [![npm](https://img.shields.io/npm/dt/dark-mode-ts.svg)](https://www.npmjs.com/package/dark-mode-ts)
 
