@@ -133,31 +133,32 @@
 [![npm package version](https://badgen.net/npm/v/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
 [![npm package downloads](https://badgen.net/npm/dm/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
 [![Total npm package downloads](https://badgen.net/npm/dt/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
-[![GitHub stars](https://badgen.net/github/stars/username/dark-mode-ts)](https://github.com/username/dark-mode-ts)
+[![GitHub stars](https://badgen.net/github/stars/ArtemPchela/dark-mode-ts)](https://github.com/ArtemPchela/dark-mode-ts)
 
 [dark-mode-ts](https://npmjs.com/package/scroll-to-top-react)
 
 [![npm package version](https://badgen.net/npm/v/scroll-to-top-react)](https://www.npmjs.com/package/scroll-to-top-react)
 [![npm package downloads](https://badgen.net/npm/dm/scroll-to-top-react)](https://www.npmjs.com/package/scroll-to-top-react)
 [![Total npm package downloads](https://badgen.net/npm/dt/scroll-to-top-react)](https://www.npmjs.com/package/scroll-to-top-react)
-[![GitHub stars](https://badgen.net/github/stars/username/scroll-to-top-react)](https://github.com/username/scroll-to-top-react)
+[![GitHub stars](https://badgen.net/github/stars/ArtemPchela/scroll-to-top-react)](https://github.com/ArtemPchela/scroll-to-top-react)
 
 [accordion-react-ts](https://npmjs.com/package/accordion-react-ts)
 
 [![npm package version](https://badgen.net/npm/v/accordion-react-ts)](https://www.npmjs.com/package/accordion-react-ts)
 [![npm package downloads](https://badgen.net/npm/dm/accordion-react-ts)](https://www.npmjs.com/package/accordion-react-ts)
 [![Total npm package downloads](https://badgen.net/npm/dt/accordion-react-ts)](https://www.npmjs.com/package/accordion-react-ts)
-[![GitHub stars](https://badgen.net/github/stars/username/accordion-react-ts)](https://github.com/username/accordion-react-ts)
-
-[![npm](https://img.shields.io/npm/dt/accordion-react-ts.svg)](https://www.npmjs.com/package/accordion-react-ts)
+[![GitHub stars](https://badgen.net/github/stars/ArtemPchela/accordion-react-ts)](https://github.com/ArtemPchela/accordion-react-ts)
 
 [id-generator-ts](https://npmjs.com/package/id-generator-ts)
 
-[![npm](https://img.shields.io/npm/dt/id-generator-ts.svg)](https://www.npmjs.com/package/id-generator-ts)
+[![npm package version](https://badgen.net/npm/v/id-generator-ts)](https://www.npmjs.com/package/id-generator-ts)
+[![npm package downloads](https://badgen.net/npm/dm/id-generator-ts)](https://www.npmjs.com/package/id-generator-ts)
+[![Total npm package downloads](https://badgen.net/npm/dt/id-generator-ts)](https://www.npmjs.com/package/id-generator-ts)
+[![GitHub stars](https://badgen.net/github/stars/ArtemPchela/id-generator-ts)](https://github.com/ArtemPchela/id-generator-ts)
 
 [wpm-calculator-react](https://npmjs.com/package/wpm-calculator-react)
 
-[![npm](https://img.shields.io/npm/dt/id-generator-ts.svg)](https://www.npmjs.com/package/wpm-calculator-react)
-
-
-
+[![npm package version](https://badgen.net/npm/v/wpm-calculator-react)](https://www.npmjs.com/package/wpm-calculator-react)
+[![npm package downloads](https://badgen.net/npm/dm/wpm-calculator-react)](https://www.npmjs.com/package/wpm-calculator-react)
+[![Total npm package downloads](https://badgen.net/npm/dt/wpm-calculator-react)](https://www.npmjs.com/package/wpm-calculator-react)
+[![GitHub stars](https://badgen.net/github/stars/ArtemPchela/wpm-calculator-react)](https://github.com/ArtemPchela/wpm-calculator-react)
