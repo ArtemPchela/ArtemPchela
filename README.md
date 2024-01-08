@@ -123,21 +123,26 @@
 
 [dark-mode-react](https://npmjs.com/package/dark-mode-react)   
 
-[![npm](https://img.shields.io/npm/dt/scroll-to-top-react.svg)](https://www.npmjs.com/package/dark-mode-react)
+[![npm](https://badgen.net/npm/v/dark-mode-react)]
 
 [dark-mode-ts](https://npmjs.com/package/dark-mode-ts)
+
 [![npm](https://img.shields.io/npm/dt/dark-mode-ts.svg)](https://www.npmjs.com/package/dark-mode-ts)
 
 [dark-mode-ts](https://npmjs.com/package/scroll-to-top-react)
+
 [![npm](https://img.shields.io/npm/dt/scroll-to-top-react.svg)](https://www.npmjs.com/package/scroll-to-top-react)
 
 [accordion-react-ts](https://npmjs.com/package/accordion-react-ts)
+
 [![npm](https://img.shields.io/npm/dt/accordion-react-ts.svg)](https://www.npmjs.com/package/accordion-react-ts)
 
 [id-generator-ts](https://npmjs.com/package/id-generator-ts)
+
 [![npm](https://img.shields.io/npm/dt/id-generator-ts.svg)](https://www.npmjs.com/package/id-generator-ts)
 
 [wpm-calculator-react](https://npmjs.com/package/wpm-calculator-react)
+
 [![npm](https://img.shields.io/npm/dt/id-generator-ts.svg)](https://www.npmjs.com/package/wpm-calculator-react)
 
 
