@@ -119,18 +119,13 @@
 
 ---
 
-<details>
-  <summary>
-    <strong>
       📦npm 
-    </strong>
-  </summary>
-  <ul>  
-    <li>
-      <a href='https://npmjs.com/package/dark-mode-react'>
+      https://npmjs.com/package/dark-mode-react
         dark-mode-react
-      </a>
-      [![npm](https://img.shields.io/npm/dt/package-name.svg)](https://www.npmjs.com/package/scroll-to-top-react)
+
+      [![npm](https://img.shields.io/npm/dt/scroll-to-top-react.svg)](https://www.npmjs.com/package/dark-mode-react)
+
+      
     </li>
     <li>
       <a href='https://npmjs.com/package/dark-mode-ts'>
