@@ -119,11 +119,10 @@
 
 ---
 
-      📦npm 
-      https://npmjs.com/package/dark-mode-react
-        dark-mode-react
+📦npm's packages:
 
-      [![npm](https://img.shields.io/npm/dt/scroll-to-top-react.svg)](https://www.npmjs.com/package/dark-mode-react)
+[dark-mode-react](https://npmjs.com/package/dark-mode-react)   
+[![npm](https://img.shields.io/npm/dt/scroll-to-top-react.svg)](https://www.npmjs.com/package/dark-mode-react)
 
       
     </li>
