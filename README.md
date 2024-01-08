@@ -128,14 +128,14 @@
 [![Total npm package downloads](https://badgen.net/npm/dt/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
 [![GitHub stars](https://badgen.net/github/stars/ArtemPchela/dark-mode-react)](https://github.com/ArtemPchela/dark-mode-react)
 
-[dark-mode-react](https://npmjs.com/package/dark-mode-ts) 
+[dark-mode-ts](https://npmjs.com/package/dark-mode-ts) 
 
 [![npm package version](https://badgen.net/npm/v/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
 [![npm package downloads](https://badgen.net/npm/dm/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
 [![Total npm package downloads](https://badgen.net/npm/dt/dark-mode-ts)](https://www.npmjs.com/package/dark-mode-ts)
 [![GitHub stars](https://badgen.net/github/stars/ArtemPchela/dark-mode-ts)](https://github.com/ArtemPchela/dark-mode-ts)
 
-[dark-mode-ts](https://npmjs.com/package/scroll-to-top-react)
+[scroll-to-top-react](https://npmjs.com/package/scroll-to-top-react)
 
 [![npm package version](https://badgen.net/npm/v/scroll-to-top-react)](https://www.npmjs.com/package/scroll-to-top-react)
 [![npm package downloads](https://badgen.net/npm/dm/scroll-to-top-react)](https://www.npmjs.com/package/scroll-to-top-react)
