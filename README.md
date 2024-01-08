@@ -123,7 +123,7 @@
 
 [dark-mode-react](https://npmjs.com/package/dark-mode-react)   
 
-[![npm](https://badgen.net/npm/downloads/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
+[![npm package version](https://badgen.net/npm/v/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
 [![npm package downloads](https://badgen.net/npm/dm/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
 [![Total npm package downloads](https://badgen.net/npm/dt/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
 
