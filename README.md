@@ -126,7 +126,7 @@
 [![npm package version](https://badgen.net/npm/v/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
 [![npm package downloads](https://badgen.net/npm/dm/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
 [![Total npm package downloads](https://badgen.net/npm/dt/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
-[![GitHub stars](https://badgen.net/github/stars/username/dark-mode-react)](https://github.com/username/dark-mode-react)
+[![GitHub stars](https://badgen.net/github/stars/ArtemPchela/dark-mode-react)](https://github.com/ArtemPchela/dark-mode-react)
 
 [dark-mode-react](https://npmjs.com/package/dark-mode-ts) 
 
