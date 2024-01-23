@@ -121,6 +121,12 @@
 <div id="npm"></div>
 📦npm's packages:
 
+[click-outside-ts](https://npmjs.com/package/click-outside-ts)
+[![npm package version](https://badgen.net/npm/v/click-outside-ts)](https://www.npmjs.com/package/click-outside-ts)
+[![npm package downloads](https://badgen.net/npm/dm/click-outside-ts)](https://www.npmjs.com/package/click-outside-ts)
+[![Total npm package downloads](https://badgen.net/npm/dt/click-outside-ts)](https://www.npmjs.com/package/click-outside-ts)
+[![GitHub stars](https://badgen.net/github/stars/ArtemPchela/click-outside-ts)](https://github.com/ArtemPchela/click-outside-ts)
+
 [dark-mode-react](https://npmjs.com/package/dark-mode-react)   
 
 [![npm package version](https://badgen.net/npm/v/dark-mode-react)](https://www.npmjs.com/package/dark-mode-react)
