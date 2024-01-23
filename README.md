@@ -122,6 +122,7 @@
 📦npm's packages:
 
 [click-outside-ts](https://npmjs.com/package/click-outside-ts)
+
 [![npm package version](https://badgen.net/npm/v/click-outside-ts)](https://www.npmjs.com/package/click-outside-ts)
 [![npm package downloads](https://badgen.net/npm/dm/click-outside-ts)](https://www.npmjs.com/package/click-outside-ts)
 [![Total npm package downloads](https://badgen.net/npm/dt/click-outside-ts)](https://www.npmjs.com/package/click-outside-ts)
