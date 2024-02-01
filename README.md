@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/artem-pchelenkov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCoj31C7m4TnH4scqWD-1Yew">
+  <a href="https://www.youtube.com/channel/UC2pGphugSZ0Qp2zuXSOPx0g">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
