@@ -121,7 +121,7 @@
 <div id="npm"></div>
 📦npm's packages:
 
-[countup-react-ts]https://npmjs.com/package/countup-react-ts
+[countup-react-ts](https://npmjs.com/package/countup-react-ts)
 
 [![npm package version](https://badgen.net/npm/v/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
 [![npm package downloads](https://badgen.net/npm/dm/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
