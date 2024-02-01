@@ -121,6 +121,15 @@
 <div id="npm"></div>
 📦npm's packages:
 
+[![countup-react-ts](https://npmjs.com/package/countup-react-ts]
+
+[![npm version](https://badge.fury.io/js/countup-react-ts.svg)](https://badge.fury.io/js/countup-react-ts)
+[![npm downloads](https://img.shields.io/npm/dm/countup-react-ts.svg)](https://www.npmjs.com/package/countup-react-ts)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
+[![npm bundle size](https://img.shields.io/npm/types/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
+[![npm bundle size](https://img.shields.io/npm/l/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
+
 [click-outside-ts](https://npmjs.com/package/click-outside-ts)
 
 [![npm package version](https://badgen.net/npm/v/click-outside-ts)](https://www.npmjs.com/package/click-outside-ts)
