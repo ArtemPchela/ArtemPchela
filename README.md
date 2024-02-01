@@ -121,14 +121,12 @@
 <div id="npm"></div>
 📦npm's packages:
 
-[countup-react-ts](https://npmjs.com/package/countup-react-ts
+[countup-react-ts]https://npmjs.com/package/countup-react-ts
 
-[![npm version](https://badge.fury.io/js/countup-react-ts.svg)](https://badge.fury.io/js/countup-react-ts)
-[![npm downloads](https://img.shields.io/npm/dm/countup-react-ts.svg)](https://www.npmjs.com/package/countup-react-ts)
-[![npm bundle size](https://img.shields.io/bundlephobia/min/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
-[![npm bundle size](https://img.shields.io/bundlephobia/minzip/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
-[![npm bundle size](https://img.shields.io/npm/types/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
-[![npm bundle size](https://img.shields.io/npm/l/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
+[![npm package version](https://badgen.net/npm/v/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
+[![npm package downloads](https://badgen.net/npm/dm/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
+[![Total npm package downloads](https://badgen.net/npm/dt/countup-react-ts)](https://www.npmjs.com/package/countup-react-ts)
+[![GitHub stars](https://badgen.net/github/stars/ArtemPchela/countup-react-ts)](https://github.com/ArtemPchela/countup-react-ts)
 
 [click-outside-ts](https://npmjs.com/package/click-outside-ts)
 
