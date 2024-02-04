@@ -10,43 +10,15 @@
   <img src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47tcf11oev0ipk3pcfz38r502njcytndip46ekht3x&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
-<div id="badges" style="
-    color: red;
-"}>
-        <div display="flex" flex-direction="column">
-          <div color="red">My profile</div>
-          <div>
-            <a href="https://www.linkedin.com/in/artem-pchelenkov/">
-              <img
-                src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-                alt="LinkedIn Badge"
-              />
-            </a>
-          </div>
-        </div>
-        <div>
-          <div>CatWebDev</div>
-          <div>
-            <a href="https://www.youtube.com/channel/UC2pGphugSZ0Qp2zuXSOPx0g">
-              <img
-                src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
-                alt="Youtube Badge"
-              />
-            </a>
-          </div>
-        </div>
-        <div>
-          <div>I wanna know all</div>
-          <div>
-            <a href="https://www.youtube.com/channel/UCBiFiZWWJavT4nCYEGCeRRQ">
-              <img
-                src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
-                alt="Youtube Badge"
-              />
-            </a>
-          </div>
-        </div>
-      </div>
+
+
+
+| name           |                                                      description                                                      | link                                                                                                                                                                                              |
+|:---------------|:---------------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Profile        |                                                   Linkedin profile                                                    | <a href="https://www.linkedin.com/in/artem-pchelenkov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>        |
+| @catwebdev     |                                         "CatWebDev" Youtube channel about code                                          | <a href="https://www.youtube.com/channel/UC2pGphugSZ0Qp2zuXSOPx0g"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a> |  
+| @Iwannaknowall | "I wanna know all" Youtube channel aboy interesting stories and facts, quizes and just relax stories before go to sleep | <a href="https://www.youtube.com/channel/UCBiFiZWWJavT4nCYEGCeRRQ"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>                                                                                                                                                                                                  |
+
 
 ---
 
