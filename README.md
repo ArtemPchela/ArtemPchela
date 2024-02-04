@@ -11,22 +11,40 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/artem-pchelenkov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <div>
-  <span>CatWebDev</span>
-    <a href="https://www.youtube.com/channel/UC2pGphugSZ0Qp2zuXSOPx0g">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-  </div>
-  <div>
-    <span>I wanna know all</span>
-    <a href="https://www.youtube.com/channel/UCBiFiZWWJavT4nCYEGCeRRQ">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-  </div>
-</div>
+        <div display="flex" flex-direction="column">
+          <div>My profile</div>
+          <div>
+            <a href="https://www.linkedin.com/in/artem-pchelenkov/">
+              <img
+                src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+                alt="LinkedIn Badge"
+              />
+            </a>
+          </div>
+        </div>
+        <div>
+          <div>CatWebDev</div>
+          <div>
+            <a href="https://www.youtube.com/channel/UC2pGphugSZ0Qp2zuXSOPx0g">
+              <img
+                src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+                alt="Youtube Badge"
+              />
+            </a>
+          </div>
+        </div>
+        <div>
+          <div>I wanna know all</div>
+          <div>
+            <a href="https://www.youtube.com/channel/UCBiFiZWWJavT4nCYEGCeRRQ">
+              <img
+                src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+                alt="Youtube Badge"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
 
 ---
 
