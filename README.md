@@ -10,14 +10,6 @@
   <img src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47tcf11oev0ipk3pcfz38r502njcytndip46ekht3x&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
-
-| name           |                                                      description                                                      | link                                                                                                                                                                                              |
-|:---------------|:---------------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Profile        |                                                   Linkedin profile                                                    | <a href="https://www.linkedin.com/in/artem-pchelenkov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>        |
-| @catwebdev     |                                         "CatWebDev" Youtube channel about code                                          | <a href="https://www.youtube.com/channel/UC2pGphugSZ0Qp2zuXSOPx0g"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a> |  
-| @Iwannaknowall | "I wanna know all" Youtube channel aboy interesting stories and facts, quizes and just relax stories before go to sleep | <a href="https://www.youtube.com/channel/UCBiFiZWWJavT4nCYEGCeRRQ"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>                                                                                                                                                                                                  |
-
-
 ---
 
 ### About Me:
@@ -28,6 +20,16 @@
 - Modern frontend frameworks like React and Next for dynamic web applications.
 - UI/UX design principles to craft delightful user experiences.
 - Performance optimization to ensure fast and smooth web experiences.
+
+### My YouTube channels:
+
+| name           |                                                      description                                                      | link                                                                                                                                                                                              |
+|:---------------|:---------------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Profile        |                                                   Linkedin profile                                                    | <a href="https://www.linkedin.com/in/artem-pchelenkov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>        |
+| @catwebdev     |                                         "CatWebDev" Youtube channel about code                                          | <a href="https://www.youtube.com/channel/UC2pGphugSZ0Qp2zuXSOPx0g"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a> |  
+| @Iwannaknowall | "I wanna know all" Youtube channel aboy interesting stories and facts, quizes and just relax stories before go to sleep | <a href="https://www.youtube.com/channel/UCBiFiZWWJavT4nCYEGCeRRQ"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>                                                                                                                                                                                                  |
+
+
   
 ### :world_map: Location:
  Stockholm, Sweden.
