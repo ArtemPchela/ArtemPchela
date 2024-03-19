@@ -24,9 +24,6 @@
 - Modern frontend frameworks like React and Next for dynamic web applications.
 - UI/UX design principles to craft delightful user experiences.
 - Performance optimization to ensure fast and smooth web experiences.
-                                                                                                                                                                                            |
-## Support me:
-<a href="https://www.buymeacoffee.com/catwebdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=catwebdev&button_colour=16eefe&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ### :world_map: Location:
  Stockholm, Sweden.
@@ -114,6 +111,10 @@
 <!--         <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPchela&&show_icons=true&theme=tokyonight"/> -->
 </details>
+
+## Support me:
+<a href="https://www.buymeacoffee.com/catwebdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=catwebdev&button_colour=16eefe&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 
 ---
 <div id="npm"></div>
